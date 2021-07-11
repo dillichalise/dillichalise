@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Webstorm" width="26px" src="https://www.google.com/search?q=webstorm+png&sxsrf=ALeKk006aIbaUissQkAAfcDhwxgCh3JWuw:1625986695281&tbm=isch&source=iu&ictx=1&fir=0CCGqws6RoQaNM%252CAcnJ7jjQNmLHlM%252C_&vet=1&usg=AI4_-kSByxLtvlZ1bi8A7i98PLP6NX4ddA&sa=X&ved=2ahUKEwj1t4a7uNrxAhWQIbcAHdy6ArcQ9QF6BAgYEAE#imgrc=0CCGqws6RoQaNM />
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
