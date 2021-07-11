@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...sdajh
+- 🔭 I’m currently working on Heubert Technologies.
+- 🌱 I’m currently learning Typescript.
+
 ### Contact me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
