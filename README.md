@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Dilli Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillichalise&show_icons=true&locale=en&layout=compact" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillichalise&show_icons=true&locale=en&layout=compact" alt="Pratikshya-Regmi" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dillichalise" alt="Dilli profile trophies" /></a> </p>
 
 [website]: https://dillichalise.com.np/
 [twitter]: https://twitter.com/dillichalise
