@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Dilli Github Stats" src="https://github-readme-stats.vercel.app/api?username=dillichalise&show_icons=true&hide_border=true" />
 
+<img align="right" alt="Dilli Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillichalise&show_icons=true&locale=en&layout=compact" />
+
 [website]: https://dillichalise.com.np/
 [twitter]: https://twitter.com/dillichalise
 [youtube]: https://www.youtube.com/channel/UCwqgu68sqKc6w0gnfxCX7OQ?view_as=subscriber
